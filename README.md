@@ -7,7 +7,7 @@
 ٩(ˊᗜˋ)و
 
 
-<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 <!--
 **anminjoo/anminjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
